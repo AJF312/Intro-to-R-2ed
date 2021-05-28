@@ -4,7 +4,7 @@
 *.zip
 *.exe
 
-# History files
+# History files s s
 .Rhistory
 .Rapp.history
 
